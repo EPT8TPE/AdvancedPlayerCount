@@ -1,0 +1,10 @@
+name: AdvancedPlayerCount
+description: Displayers current online players in a dropdown UI.
+version: 1.0.0
+api: 3.0.0
+main: TPE\AdvancedPlayerCount\Main
+author: TPE
+
+commands:
+  online:
+    description: Opens UI listing current players online.
