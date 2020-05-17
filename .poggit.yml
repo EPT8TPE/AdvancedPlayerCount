@@ -4,5 +4,5 @@ branches:
 - master
 projects: 
   AdvancedPlayerCount:
-    path: ""
-...
+    icon: "icon.png"
+... path: ""
